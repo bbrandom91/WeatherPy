@@ -1,4 +1,8 @@
-
+The purpose of this project was to analyze how weather changes as you get closer to the equator.
+To accomplish this, we first pulled data from the OpenWeather API to assemble a dataset of over 500 cities.
+After assembling the dataset, we used Matplotlib to plot various factors of the weather versus altitude.
+The factors we used were temperature, cloudiness, wind speed, and humidity.
+This site provides the source data and visualizations created as part of the analysis, as well as explanations and descriptions of any trends and correlations observed.
 
 ```python
 import random
